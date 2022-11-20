@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9y4Kw4YA+vkiQezkKHnPrkxUlE5UYJvLikWKW3T6N/wqWgxVBBQNcikHPqspjqWTusmIEnbZuOWmyWEFby9aIQ==",
+  "success": true,
+  "projectFilePath": "Y:\\Groups\\1\\סולוביציק חיה רחל\\.net\\MyProject\\MyProject.Services\\MyProject.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hitmachut\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

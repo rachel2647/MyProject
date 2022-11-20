@@ -1,0 +1,9 @@
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Common\bin\Debug\netcoreapp3.1\MyProject.Common.deps.json
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Common\bin\Debug\netcoreapp3.1\MyProject.Common.dll
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Common\bin\Debug\netcoreapp3.1\MyProject.Common.pdb
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.csproj.AssemblyReference.cache
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.AssemblyInfoInputs.cache
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.AssemblyInfo.cs
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.csproj.CoreCompileInputs.cache
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.dll
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.pdb

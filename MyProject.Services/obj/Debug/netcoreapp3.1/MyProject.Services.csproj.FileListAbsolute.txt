@@ -1,0 +1,14 @@
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Services\bin\Debug\netcoreapp3.1\MyProject.Services.deps.json
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Services\bin\Debug\netcoreapp3.1\MyProject.Services.dll
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Services\bin\Debug\netcoreapp3.1\MyProject.Services.pdb
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Services\bin\Debug\netcoreapp3.1\MyProject.Common.dll
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Services\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Services\bin\Debug\netcoreapp3.1\MyProject.Common.pdb
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Services\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.csproj.AssemblyReference.cache
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.AssemblyInfoInputs.cache
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.AssemblyInfo.cs
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.csproj.CoreCompileInputs.cache
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.csproj.CopyComplete
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.dll
+D:\תכנות\שנה ב'\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.pdb
